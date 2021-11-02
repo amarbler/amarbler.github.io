@@ -58,9 +58,11 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Alexander Marbler"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "
+  PhD Candidate at University of Graz.
+  Interested in climate change economics & data science."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
