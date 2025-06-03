@@ -14,6 +14,7 @@ website:
       #- data/index.qmd
       - text: Vita
         href: files/CV_Marbler.pdf
+        target: _blank
       #- text: Blog
       #  href: index.qmd
 
