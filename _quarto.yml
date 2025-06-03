@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  site-url: amarbler.github.io
+  title: "Alexander Marbler"
+  navbar:
+    left:
+      - text: Research
+        href: index.qmd
+      #- research/index.qmd
+      #- projects/index.qmd
+      #- data/index.qmd
+      - text: Vita
+        href: https://amarbler.github.io/cv/CV_Marbler.pdf
+      #- text: Blog
+      #  href: index.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+editor: visual
+
