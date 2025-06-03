@@ -15,9 +15,11 @@ about:
       target: _blank
     - text: "{{< iconify academicons orcid>}} ORCID"
       href: https://orcid.org/0000-0001-7475-476X
+      target: _blank
     - icon: github
       text: Github
       href: https://github.com/amarbler
+      target: _blank
     - icon: envelope
       text: Email
       aria-label: email
