@@ -34,7 +34,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Publications
 
-**Marbler, A.** (2024) "Water scarcity and local economic activity: Spatial spillovers and the role of irrigation." <i>Journal of Environmental Economics and Management</i>, 124, 102931. [Paper](https://doi.org/10.1016/j.jeem.2024.102931) \| [Slides](https://amarbler.github.io/slides/EconWAT_slides.pdf)
+**Marbler, A.** (2024) "Water scarcity and local economic activity: Spatial spillovers and the role of irrigation." <i>Journal of Environmental Economics and Management</i>, 124, 102931. [Paper](https://doi.org/10.1016/j.jeem.2024.102931) \| [Slides](files/EconWAT_slides.pdf)
 
 ***Award:*** [Young Economists Award (NOeG 2021)](https://en.noeg.ac.at/young-economists)
 
