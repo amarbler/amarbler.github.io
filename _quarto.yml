@@ -13,7 +13,7 @@ website:
       #- projects/index.qmd
       #- data/index.qmd
       - text: Vita
-        href: https://amarbler.github.io/cv/CV_Marbler.pdf
+        href: cv/CV_Marbler.pdf
       #- text: Blog
       #  href: index.qmd
 
