@@ -17,6 +17,9 @@ website:
         target: _blank
       #- text: Blog
       #  href: index.qmd
+      
+  page-footer: 
+    left: "[Alexander Marbler](http://amarbler.github.io) &copy; <script>document.write(new Date().getFullYear())</script>" 
 
 format:
   html:
@@ -25,6 +28,7 @@ format:
       - brand
     css: styles.css
     toc: true
+    link-external-newwindow: true
 
 editor: visual
 
