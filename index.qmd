@@ -1,5 +1,5 @@
 ---
-title: "Dr. Alexander Marbler"
+title: "Alexander Marbler"
 image: marbler.png
 page-navigation: false
 toc: false
