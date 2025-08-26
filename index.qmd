@@ -51,7 +51,19 @@ This paper explores the spatial spillover effects of water scarcity on local eco
 
 <summary>Presentations</summary>
 
-Annual Conference of the European Economic Association (EEA-ESEM 2021); 27th Annual Conference of the European Association of Environmental and Resource Economists (EAERE 2022); Verein für Socialpolitik Annual Conference (VfS 2021); 8th Annual Conference of the French Association of Environmental and Resource Economists (FAERE 2021); Annual Conference of the Austrian Economic Association (NOeG 2021); 9th Annual Conference of the Italian Association of Environmental and Resource Economists (IAERE 2021); Regulation and Environment (REM) Seminar at Paris School of Economics
+-   Annual Conference of the European Economic Association (EEA-ESEM 2021)
+
+-   27th Annual Conference of the European Association of Environmental and Resource Economists (EAERE 2022)
+
+-   Verein für Socialpolitik Annual Conference (VfS 2021)
+
+-   8th Annual Conference of the French Association of Environmental and Resource Economists (FAERE 2021)
+
+-   Annual Conference of the Austrian Economic Association (NOeG 2021)
+
+-   9th Annual Conference of the Italian Association of Environmental and Resource Economists (IAERE 2021)
+
+-   Regulation and Environment (REM) Seminar at Paris School of Economics, France
 
 </details>
 
@@ -63,8 +75,7 @@ Annual Conference of the European Economic Association (EEA-ESEM 2021); 27th An
 
 <summary>Abstract</summary>
 
-This paper explores the role of global supply chains in amplifying the macroeconomic losses caused by local climate shocks. Combining global multi-regional input-output tables, high-resolution water availability data, and subnational gross value added (GVA) for Europe's NUTS-3 regions, I find that supply chain spillover effects substantially amplify the macroeconomic losses caused by local water scarcity shocks. The negative effects are persistent and regions that are already drier today are the most vulnerable to supply chain transmitted water scarcity shocks. A counterfactual analysis reveals that over the period 2000-2019, the total cumulative European gross value added losses
-attributable to these shocks amounts to €12.3 trillion. This is more than three times the €3.7 trillion in estimated GVA losses when supply chain spillover effects are not accounted for. This paper highlights both the importance of integrating supply chain spillovers into climate impact assessments and the need for adaptation measures to enhance the supply chain resilience under future warming.
+This paper explores the role of global supply chains in amplifying the macroeconomic losses caused by local climate shocks. Combining global multi-regional input-output tables, high-resolution water availability data, and subnational gross value added (GVA) for Europe's NUTS-3 regions, I find that supply chain spillover effects substantially amplify the macroeconomic losses caused by local water scarcity shocks. The negative effects are persistent and regions that are already drier today are the most vulnerable to supply chain transmitted water scarcity shocks. A counterfactual analysis reveals that over the period 2000-2019, the total cumulative European gross value added losses attributable to these shocks amounts to €12.3 trillion. This is more than three times the €3.7 trillion in estimated GVA losses when supply chain spillover effects are not accounted for. This paper highlights both the importance of integrating supply chain spillovers into climate impact assessments and the need for adaptation measures to enhance the supply chain resilience under future warming.
 
 </details>
 
@@ -72,9 +83,11 @@ attributable to these shocks amounts to €12.3 trillion. This is more than thre
 
 <summary>Presentations</summary>
 
-30th Annual Conference of the European Association of Environmental and Resource Economists (EAERE 2025)
+-   40th Annual Conference of the European Economic Association (EEA 2025), Bordeaux, France
 
-</details>		 	
+-   30th Annual Conference of the European Association of Environmental and Resource Economists (EAERE 2025), Bergen, Norway
+
+</details>
 
 **Marbler, A.** (2022) "Agriculture drives the effect of rainfall on economic production." Available at SSRN: <https://dx.doi.org/10.2139/ssrn.4459158>. [Paper](https://dx.doi.org/10.2139/ssrn.4459158)
 
@@ -100,7 +113,9 @@ Growing evidence suggests that there is a causal effect of rainfall on economic 
 
 <summary>Presentations</summary>
 
-29th Annual Conference of the European Association of Environmental and Resource Economists (EAERE 2024); Environmental Protection and Sustainability Forum (EPSF 2022)
+-   29th Annual Conference of the European Association of Environmental and Resource Economists (EAERE 2024), Leuven, Belgium
+
+-   Environmental Protection and Sustainability Forum (EPSF 2022), Graz, Austria
 
 </details>
 :::
