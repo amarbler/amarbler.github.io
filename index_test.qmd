@@ -6,7 +6,7 @@ page-navigation: false
 ---
   
 ::: {.columns}
-::: {.column width="50%"}
+::: {.column width="40%"}
 
 <div class="profile-card">
 
@@ -38,7 +38,7 @@ page-navigation: false
 
 :::
   
-::: {.column width="50%"}
+::: {.column width="60%"}
 <div class="right-panel">
 
 ## Research

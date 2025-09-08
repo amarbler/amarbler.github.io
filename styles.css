@@ -33,7 +33,6 @@
 
 .profile-desc {
   font-size: 1rem;
-  #color: #666; /* subtle gray, similar to trestles */
   margin-bottom: 1rem;
   margin-top: 0rem;
   text-align: justify;
@@ -60,4 +59,29 @@
   font-size: 2rem;
   font-weight: 600;
   margin-top: 0;
+}
+
+@media (max-width: 900px) {
+  /* Let columns stack and remove extra spacing */
+  .columns { 
+    display: block;          /* ensure stacking */
+    gap: 0 !important;
+  }
+  .columns .column {
+    width: 100% !important;
+    padding: 0 !important;   /* reset paddings from desktop */
+  }
+
+  /* Reduce inner spacing */
+  .profile-card { margin-bottom: 1.25rem; }
+  .profile-img { max-width: 160px; }
+  .profile-name { font-size: 1.6rem; }
+  .profile-desc { font-size: 0.95rem; }
+
+  /* Tighter link buttons on small screens */
+  .profile-links a {
+    margin: 0 0.15rem;
+    padding: 0.2rem 0.4rem;
+    font-size: 0.85rem;
+  }
 }
