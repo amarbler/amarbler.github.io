@@ -1,39 +1,50 @@
 ---
-title: "Alexander Marbler"
-description:  I am a postdoctoral researcher at the [Wegener Center for Climate and Global Change](https://wegcenter.uni-graz.at/en/) at the [University of Graz](https://www.uni-graz.at/en/), working on topics in environmental and spatial economics.
-image: marbler.png
-page-navigation: false
-toc: false
-#sidebar: false
+title: ""
 page-layout: full
-
-about:
-  id: hero-heading
-  template:  trestles #marquee #jolla #broadside #solana
-  image-width: 50%
-  links:
-    - text: "{{< iconify academicons google-scholar >}} Scholar"
-      href: https://scholar.google.com/citations?user=pMLEyBAAAAAJ&hl=de&oi=ao
-      target: _blank
-    - text: "{{< iconify academicons orcid>}} ORCID"
-      href: https://orcid.org/0000-0001-7475-476X
-      target: _blank
-    - icon: github
-      text: Github
-      href: https://github.com/amarbler
-      target: _blank
-    - icon: envelope
-      text: Email
-      aria-label: email
-      href: "mailto:alexander.marbler@uni-graz.at"
+toc: false
+page-navigation: false
 ---
+  
+::: {.columns}
+::: {.column width="40%"}
 
-::: {#hero-heading}
-# Research
+<div class="profile-card">
 
+![](marbler.png){.profile-img}
+
+<div class="profile-name">Alexander Marbler</div>
+
+<div class="profile-desc">
+  I am a postdoctoral researcher at the [Wegener Center for Climate and Global Change](https://wegcenter.uni-graz.at/en/) at the [University of Graz](https://www.uni-graz.at/en/), working on topics in environmental and spatial economics.
+</div>
+
+<div class="profile-links">
+
+[{{< iconify academicons google-scholar >}} Scholar](https://scholar.google.com/citations?user=pMLEyBAAAAAJ&hl=de&oi=ao){target=_blank}
+[{{< iconify academicons orcid >}} ORCID](https://orcid.org/0000-0001-7475-476X){target=_blank}
+[{{< iconify simple-icons linkedin >}} LinkedIn](https://linkedin.com/in/alexander-marbler){target=_blank}
+[{{< iconify simple-icons github >}} Github](https://github.com/amarbler){target=_blank}
+[{{< iconify mdi envelope >}} Email](mailto:alexander.marbler@uni-graz.at)
+
+</div>
+
+
+
+</div>
+
+### News
+- **New working paper available:** [When supply chains run dry: Spillovers intensify the economic impact of water scarcity.](https://dx.doi.org/10.2139/ssrn.5354158)
+- **24-09-2025** — [Presentation at NOeG Annual Conference in Krems, Austria.](https://www.donau-uni.ac.at/en/university/faculties/business-globalization/departments/migration-globalization/news-events/events/2025/noeg_conf_25/program.html#op55)
+
+:::
+  
+::: {.column width="60%"}
+<div class="right-panel">
+
+## Research
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=pMLEyBAAAAAJ&hl=de&oi=ao).
 
-## Publications
+### Publications
 
 **Marbler, A.** (2024) "Water scarcity and local economic activity: Spatial spillovers and the role of irrigation." <i>Journal of Environmental Economics and Management</i>, 124, 102931. [Paper](https://doi.org/10.1016/j.jeem.2024.102931) \| [Slides](files/EconWAT_slides.pdf).
 
@@ -53,7 +64,7 @@ This paper explores the spatial spillover effects of water scarcity on local eco
 
 -   Annual Conference of the European Economic Association (EEA-ESEM 2021)
 
--   27th Annual Conference of the European Association of Environmental and Resource Economists (EAERE 2022)
+-   27th Annual Conference of the European Association of Environmental and Resource Economists (EAERE 2022)
 
 -   Verein für Socialpolitik Annual Conference (VfS 2021)
 
@@ -67,7 +78,7 @@ This paper explores the spatial spillover effects of water scarcity on local eco
 
 </details>
 
-## Working Papers
+### Working Papers
 
 **Marbler, A.** (2025) "When supply chains run dry: Spillovers intensify the economic impact of water scarcity." Available at SSRN: [http://dx.doi.org/10.2139/ssrn.5354158](https://dx.doi.org/10.2139/ssrn.5354158). [Paper](https://dx.doi.org/10.2139/ssrn.5354158)
 
@@ -99,7 +110,7 @@ Growing evidence suggests that there is a causal effect of rainfall on economic 
 
 </details>
 
-## Work in Progress
+### Work in Progress
 
 "The impact of rural water availability on city growth." With [Stefan Borsky](https://sborsky.github.io/)
 
@@ -113,9 +124,12 @@ Growing evidence suggests that there is a causal effect of rainfall on economic 
 
 <summary>Presentations</summary>
 
--   29th Annual Conference of the European Association of Environmental and Resource Economists (EAERE 2024), Leuven, Belgium.
+-   29th Annual Conference of the European Association of Environmental and Resource Economists (EAERE 2024), Leuven, Belgium.
 
 -   Environmental Protection and Sustainability Forum (EPSF 2022), Graz, Austria.
 
 </details>
+
+</div>
+:::
 :::
