@@ -5,6 +5,7 @@ project:
 website:
   site-url: https://amarbler.github.io
   title: "Alexander Marbler"
+  google-analytics: "G-MM3WBEGQLF"
   search: true
   navbar:
     left:
