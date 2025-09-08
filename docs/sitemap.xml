@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://amarbler.github.io/research/index.html</loc>
-    <lastmod>2025-06-03T16:03:28.913Z</lastmod>
+    <loc>https://amarbler.github.io/sser.html</loc>
+    <lastmod>2025-09-08T08:33:06.098Z</lastmod>
+  </url>
+  <url>
+    <loc>https://amarbler.github.io/index_old.html</loc>
+    <lastmod>2025-09-08T11:04:15.929Z</lastmod>
   </url>
   <url>
     <loc>https://amarbler.github.io/about.html</loc>
@@ -13,15 +17,7 @@
     <lastmod>2025-09-08T11:08:43.364Z</lastmod>
   </url>
   <url>
-    <loc>https://amarbler.github.io/sser.html</loc>
-    <lastmod>2025-09-08T08:33:06.098Z</lastmod>
-  </url>
-  <url>
-    <loc>https://amarbler.github.io/index_.html</loc>
-    <lastmod>2025-09-08T11:04:31.199Z</lastmod>
-  </url>
-  <url>
-    <loc>https://amarbler.github.io/index_old.html</loc>
-    <lastmod>2025-09-08T11:04:15.929Z</lastmod>
+    <loc>https://amarbler.github.io/research/index.html</loc>
+    <lastmod>2025-06-03T16:03:28.913Z</lastmod>
   </url>
 </urlset>
