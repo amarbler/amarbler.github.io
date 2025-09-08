@@ -27,6 +27,9 @@ format:
     theme:
       - cosmo
       - brand
+    include-in-header:
+      - text: |
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons/css/academicons.min.css">
     css: styles.css
     toc: true
     link-external-newwindow: true

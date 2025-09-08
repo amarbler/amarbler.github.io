@@ -1,1 +1,63 @@
-/* css styles */
+.columns {
+  gap: 5rem; /* more space between columns */
+}
+
+.columns .column:first-child {
+  border-right: 0px solid #ddd; /* vertical divider line */
+  padding-right: 1.5rem;
+}
+
+.columns .column:last-child {
+  padding-left: 2.5rem;
+}
+
+.profile-card {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.profile-img {
+  width: 100%;
+  max-width: 220px;   /* adjust size as needed */
+  border-radius: 50%; /* circle photo */
+  margin: 0 auto 0.75rem auto;
+  display: block;
+}
+
+.profile-name {
+  font-size: 2rem;
+  font-weight: 600;
+  margin-top: 0.25rem;
+  margin-bottom: 0rem;
+}
+
+.profile-desc {
+  font-size: 1rem;
+  #color: #666; /* subtle gray, similar to trestles */
+  margin-bottom: 1rem;
+  margin-top: 0rem;
+  text-align: justify;
+}
+
+.profile-links a {
+  display: inline-block;
+  margin: 0 0.1rem;
+  padding: 0.2rem 0.3rem;
+  border-radius: 0.2rem;
+  background: #ffffff;
+  color: #666;
+  border: 1px solid #ccc;
+  text-decoration: none;
+  font-size: 0.8rem;
+}
+
+.profile-links a:hover {
+  background: #0072ce;
+  color: #fff;
+}
+
+.right-panel > h2:first-of-type {
+  font-size: 2rem;
+  font-weight: 600;
+  margin-top: 0;
+}
