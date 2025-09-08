@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://amarbler.github.io/sser.html</loc>
-    <lastmod>2025-09-08T08:33:06.098Z</lastmod>
-  </url>
-  <url>
-    <loc>https://amarbler.github.io/index_old.html</loc>
-    <lastmod>2025-09-08T11:23:44.103Z</lastmod>
-  </url>
-  <url>
-    <loc>https://amarbler.github.io/about.html</loc>
-    <lastmod>2025-06-02T16:20:03.960Z</lastmod>
+    <loc>https://amarbler.github.io/research/index.html</loc>
+    <lastmod>2025-06-03T16:03:28.913Z</lastmod>
   </url>
   <url>
     <loc>https://amarbler.github.io/index.html</loc>
     <lastmod>2025-09-08T11:23:52.362Z</lastmod>
   </url>
   <url>
-    <loc>https://amarbler.github.io/research/index.html</loc>
-    <lastmod>2025-06-03T16:03:28.913Z</lastmod>
+    <loc>https://amarbler.github.io/about.html</loc>
+    <lastmod>2025-06-02T16:20:03.960Z</lastmod>
+  </url>
+  <url>
+    <loc>https://amarbler.github.io/index_old.html</loc>
+    <lastmod>2025-09-08T11:23:44.103Z</lastmod>
   </url>
 </urlset>
