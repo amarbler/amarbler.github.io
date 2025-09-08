@@ -3,8 +3,9 @@ project:
   output-dir: docs
 
 website:
-  site-url: amarbler.github.io
+  site-url: https://amarbler.github.io
   title: "Alexander Marbler"
+  search: true
   navbar:
     left:
       - text: Research
