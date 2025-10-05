@@ -21,6 +21,7 @@ website:
       
   page-footer: 
     left: "[Alexander Marbler](http://amarbler.github.io) &copy; <script>document.write(new Date().getFullYear())</script>" 
+    
 
 format:
   html:
@@ -32,14 +33,16 @@ format:
           <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons/css/academicons.min.css">
       - text: |
           <!-- Google tag (gtag.js) -->
-          <script async src="https://www.googletagmanager.com/gtag/js?id=G-MM3WBEGQLF"></script>
-          <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
+          <!--<script async src="https://www.googletagmanager.com/gtag/js?id=G-MM3WBEGQLF"></script> -->
+          <!--<script> -->
+          <!--  window.dataLayer = window.dataLayer || []; -->
+          <!--  function gtag(){dataLayer.push(arguments);} -->
+          <!--  gtag('js', new Date()); -->
           
-            gtag('config', 'G-MM3WBEGQLF');
-          </script>
+          <!--  gtag('config', 'G-MM3WBEGQLF'); -->
+          <!--  </script> -->
+          <script data-goatcounter="https://amarbler.goatcounter.com/count"
+            async src="//gc.zgo.at/count.js"></script>
     css: styles.css
     toc: true
     link-external-newwindow: true
