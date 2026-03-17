@@ -1,87 +1,385 @@
+/* ── Custom Properties ─────────────────────────────────────── */
+:root {
+  --text-primary: #1d1d1f;
+  --text-secondary: #48484a;
+  --text-tertiary: #636366;
+  --link: #0071e3;
+  --link-hover: #0077ED;
+  --border: #d2d2d7;
+  --bg: #ffffff;
+  --transition: 0.2s ease;
+}
+
+/* ── Page Content Width ────────────────────────────────────── */
+#quarto-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+/* ── Global ───────────────────────────────────────────────── */
+body {
+  background-color: var(--bg);
+  color: var(--text-primary);
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h2 {
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  letter-spacing: -0.022em;
+  margin-bottom: 0.75rem;
+}
+
+h3 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  letter-spacing: -0.01em;
+  margin-top: 2.25rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0;
+  border-bottom: none;
+}
+
+/* ── Navbar ───────────────────────────────────────────────── */
+.navbar {
+  background: rgba(255, 255, 255, 0.8) !important;
+  backdrop-filter: saturate(180%) blur(20px);
+  -webkit-backdrop-filter: saturate(180%) blur(20px);
+  border-bottom: 1px solid var(--border);
+  box-shadow: none;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.navbar .navbar-brand {
+  font-weight: 600;
+  font-size: 1.1rem;
+  color: var(--text-primary) !important;
+  letter-spacing: -0.01em;
+}
+
+.navbar .nav-link {
+  font-weight: 400;
+  font-size: 0.9rem;
+  color: var(--text-secondary) !important;
+  text-transform: none;
+  letter-spacing: 0;
+  padding-left: 0.9rem !important;
+  padding-right: 0.9rem !important;
+  transition: color var(--transition);
+}
+
+.navbar .nav-link:hover {
+  color: var(--text-primary) !important;
+  opacity: 1;
+}
+
+.navbar .nav-link.active {
+  font-weight: 500;
+  color: var(--text-primary) !important;
+}
+
+/* ── Two-Column Layout ────────────────────────────────────── */
 .columns {
-  gap: 5rem; /* more space between columns */
+  gap: 5rem;
 }
 
 .columns .column:first-child {
-  border-right: 0px solid #ddd; /* vertical divider line */
-  padding-right: 1.5rem;
+  padding-right: 1rem;
 }
 
 .columns .column:last-child {
-  padding-left: 2.5rem;
+  padding-left: 1rem;
 }
 
+/* ── Profile ──────────────────────────────────────────────── */
 .profile-card {
   text-align: center;
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
+  padding: 0;
 }
 
 .profile-img {
   width: 100%;
-  max-width: 220px;   /* adjust size as needed */
-  border-radius: 50%; /* circle photo */
-  margin: 0 auto 0.75rem auto;
+  max-width: 210px;
+  border-radius: 50%;
+  margin: 0 auto 1.25rem auto;
   display: block;
 }
 
 .profile-name {
-  font-size: 2rem;
-  font-weight: 600;
-  margin-top: 0.25rem;
-  margin-bottom: 0rem;
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-top: 0.5rem;
+  margin-bottom: 0.35rem;
+  letter-spacing: -0.022em;
 }
 
 .profile-desc {
-  font-size: 1rem;
-  margin-bottom: 1rem;
-  margin-top: 0rem;
-  text-align: justify;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: var(--text-secondary);
+  margin-bottom: 1.5rem;
+  margin-top: 0;
+  text-align: left;
+}
+
+.profile-desc a {
+  color: var(--link);
+  text-decoration: none;
+  transition: text-decoration-color var(--transition);
+}
+
+.profile-desc a:hover {
+  text-decoration: underline;
+}
+
+/* ── Profile Links ────────────────────────────────────────── */
+.profile-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.profile-links p {
+  display: contents;
 }
 
 .profile-links a {
-  display: inline-block;
-  margin: 0 0.1rem;
-  padding: 0.2rem 0.3rem;
-  border-radius: 0.2rem;
-  background: #ffffff;
-  color: #666;
-  border: 1px solid #ccc;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0;
+  border-radius: 0;
+  background: transparent;
+  color: var(--text-secondary);
+  border: none;
   text-decoration: none;
-  font-size: 0.8rem;
+  font-size: 0.85rem;
+  font-weight: 500;
+  transition: color var(--transition);
 }
 
 .profile-links a:hover {
-  background: #0072ce;
-  color: #fff;
+  color: var(--link);
 }
 
-.right-panel > h2:first-of-type {
-  font-size: 2rem;
+.profile-links a iconify-icon {
+  font-size: 1.1em;
+}
+
+/* ── News Section ─────────────────────────────────────────── */
+#news {
+  margin-top: 2rem;
+  padding-top: 0;
+  border-top: none;
+}
+
+#news h3 {
+  font-size: 0.75rem;
   font-weight: 600;
+  color: var(--text-tertiary);
   margin-top: 0;
+  margin-bottom: 0.75rem;
+  border-bottom: none;
+  padding-bottom: 0;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
 }
 
+#news ul {
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 0;
+}
+
+#news li {
+  font-size: 0.9rem;
+  line-height: 1.55;
+  color: var(--text-primary);
+  margin-bottom: 0.6rem;
+}
+
+.news-date {
+  color: var(--text-tertiary);
+}
+
+/* ── Research Section ─────────────────────────────────────── */
+.right-panel > h2:first-of-type {
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  letter-spacing: -0.022em;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.right-panel > p:first-of-type {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  margin-bottom: 1.5rem;
+}
+
+/* ── Paper Items ──────────────────────────────────────────── */
+.paper-card {
+  padding: 1.5rem 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.paper-card:last-child {
+  border-bottom: none;
+}
+
+.paper-card p {
+  margin-bottom: 0.5rem;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: var(--text-primary);
+}
+
+.paper-card a {
+  color: var(--link);
+  text-decoration: none;
+  transition: color var(--transition);
+}
+
+.paper-card a:hover {
+  color: var(--link-hover);
+  text-decoration: underline;
+}
+
+/* ── Details Elements ─────────────────────────────────────── */
+.paper-card details {
+  margin-top: 0.5rem;
+  margin-bottom: 0.25rem;
+}
+
+.paper-card details summary {
+  cursor: pointer;
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--link);
+  padding: 0.25rem 0;
+  transition: color var(--transition);
+  user-select: none;
+  list-style: none;
+}
+
+.paper-card details summary::-webkit-details-marker {
+  display: none;
+}
+
+.paper-card details summary::before {
+  content: "\25B6";
+  display: inline-block;
+  font-size: 0.55em;
+  margin-right: 0.4rem;
+  transition: transform var(--transition);
+  transform-origin: center;
+}
+
+.paper-card details[open] summary::before {
+  transform: rotate(90deg);
+}
+
+.paper-card details summary:hover {
+  color: var(--link-hover);
+}
+
+.paper-card details[open] summary {
+  margin-bottom: 0.25rem;
+}
+
+.paper-card details > p,
+.paper-card details > ul {
+  padding: 0.4rem 0 0.4rem 1.2rem;
+  margin: 0;
+  font-size: 0.88rem;
+  line-height: 1.65;
+  color: var(--text-primary);
+  text-align: justify;
+}
+
+.paper-card details > ul {
+  padding-left: 2.2rem;
+}
+
+.paper-card details > ul li {
+  margin-bottom: 0.2rem;
+}
+
+.paper-card details > ul li p {
+  margin-bottom: 0;
+  font-size: 0.88rem;
+}
+
+/* ── Footer ───────────────────────────────────────────────── */
+.nav-footer {
+  border-top: 1px solid var(--border);
+  padding: 1.25rem 0;
+  font-size: 0.8rem;
+  color: var(--text-tertiary);
+}
+
+.nav-footer a {
+  color: var(--text-secondary);
+  text-decoration: none;
+  transition: color var(--transition);
+}
+
+.nav-footer a:hover {
+  color: var(--text-primary);
+}
+
+.nav-footer-center {
+  font-size: 0.78rem;
+  color: var(--text-tertiary);
+}
+
+/* ── Responsive ───────────────────────────────────────────── */
 @media (max-width: 900px) {
-  /* Let columns stack and remove extra spacing */
-  .columns { 
-    display: block;          /* ensure stacking */
+  #quarto-content {
+    padding: 0 1rem;
+  }
+
+  .columns {
+    display: block !important;
     gap: 0 !important;
   }
+
   .columns .column {
     width: 100% !important;
-    padding: 0 !important;   /* reset paddings from desktop */
+    padding: 0 !important;
   }
 
-  /* Reduce inner spacing */
-  .profile-card { margin-bottom: 1.25rem; }
-  .profile-img { max-width: 160px; }
-  .profile-name { font-size: 1.6rem; }
-  .profile-desc { font-size: 0.95rem; }
+  .profile-card {
+    margin-bottom: 1.5rem;
+  }
 
-  /* Tighter link buttons on small screens */
+  .profile-img {
+    max-width: 170px;
+  }
+
+  .profile-name {
+    font-size: 1.5rem;
+  }
+
+  .profile-desc {
+    font-size: 0.9rem;
+  }
+
   .profile-links a {
-    margin: 0 0.15rem;
-    padding: 0.2rem 0.4rem;
-    font-size: 0.85rem;
+    font-size: 0.82rem;
+  }
+
+  h3 {
+    font-size: 1.1rem;
   }
 }

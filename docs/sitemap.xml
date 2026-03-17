@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://amarbler.github.io/research/index.html</loc>
-    <lastmod>2025-06-03T16:03:28.913Z</lastmod>
-  </url>
-  <url>
     <loc>https://amarbler.github.io/index.html</loc>
-    <lastmod>2025-09-29T07:46:03.450Z</lastmod>
+    <lastmod>2026-03-17T09:37:01.221Z</lastmod>
   </url>
   <url>
     <loc>https://amarbler.github.io/about.html</loc>
     <lastmod>2025-06-02T16:20:03.960Z</lastmod>
-  </url>
-  <url>
-    <loc>https://amarbler.github.io/index_old.html</loc>
-    <lastmod>2025-09-08T11:23:44.103Z</lastmod>
   </url>
 </urlset>

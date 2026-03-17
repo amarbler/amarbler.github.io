@@ -1,0 +1,16 @@
+color:
+  palette:
+    nearblack: "#1d1d1f"
+    blue: "#0071e3"
+  foreground: nearblack
+  primary: blue
+
+typography:
+  base:
+    family: "Inter"
+    size: 1rem
+    line-height: 1.65
+  headings:
+    family: "Inter"
+    weight: 600
+    color: nearblack

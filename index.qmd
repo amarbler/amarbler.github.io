@@ -33,7 +33,8 @@ page-navigation: false
 </div>
 
 ### News
-- **Young Economist Award 2025:** Received from the Austrian Economic Association (NOeG) for [When supply chains run dry: Spillovers intensify the economic impact of water scarcity.](https://dx.doi.org/10.2139/ssrn.5354158)
+- **New Version of Pop-AUT available:** [Version v2.0 available at Zenodo.](https://doi.org/10.5281/zenodo.10477869) <span class="news-date">(11/25)</span>
+- **Young Economist Award 2025:** Received from the Austrian Economic Association (NOeG) for [When supply chains run dry: Spillovers intensify the economic impact of water scarcity.](https://dx.doi.org/10.2139/ssrn.5354158) <span class="news-date">(09/25)</span>
 
 :::
   
@@ -43,11 +44,59 @@ page-navigation: false
 ## Research
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=pMLEyBAAAAAJ&hl=de&oi=ao).
 
+### Working Papers
+
+<div class="paper-card">
+
+**Marbler, A.** (2025) "When supply chains run dry: Spillovers intensify the economic impact of water scarcity." Available at SSRN: [http://dx.doi.org/10.2139/ssrn.5354158](https://dx.doi.org/10.2139/ssrn.5354158).
+
+[Paper](https://dx.doi.org/10.2139/ssrn.5354158) \| <span class="award">[Young Economist Award (NOeG 2025)](https://en.noeg.ac.at/awards-fellowships#h.p_XDghNQSumeoD)</span>
+
+<details>
+
+<summary>Abstract</summary>
+
+This paper explores the role of global supply chains in amplifying the macroeconomic losses caused by local climate shocks. Combining global multi-regional input-output tables, high-resolution water availability data, and subnational gross value added (GVA) for Europe's NUTS-3 regions, I find that supply chain spillover effects substantially amplify the macroeconomic losses caused by local water scarcity shocks. The negative effects are persistent and regions that are already drier today are the most vulnerable to supply chain transmitted water scarcity shocks. A counterfactual analysis reveals that over the period 2000-2019, the total cumulative European gross value added losses attributable to these shocks amounts to €12.3 trillion. This is more than three times the €3.7 trillion in estimated GVA losses when supply chain spillover effects are not accounted for. This paper highlights both the importance of integrating supply chain spillovers into climate impact assessments and the need for adaptation measures to enhance the supply chain resilience under future warming.
+
+</details>
+
+<details>
+
+<summary>Presentations</summary>
+
+-   40th Annual Conference of the European Economic Association (EEA 2025), Bordeaux, France.
+
+-   30th Annual Conference of the European Association of Environmental and Resource Economists (EAERE 2025), Bergen, Norway.
+
+-   Annual Conference of the Austrian Economic Association (NOeG 2025), Krems an der Donau, Austria.
+
+</details>
+
+</div>
+
+<div class="paper-card">
+
+**Marbler, A.** (2022) "Agriculture drives the effect of rainfall on economic production." Available at SSRN: <https://dx.doi.org/10.2139/ssrn.4459158>.
+
+[Paper](https://dx.doi.org/10.2139/ssrn.4459158)
+
+<details>
+
+<summary>Abstract</summary>
+
+Growing evidence suggests that there is a causal effect of rainfall on economic output, yet the mechanisms driving these effects remain unclear. Here, by integrating gridded agricultural information, climate data, and information on economic output for 1,541 subnational regions across 77 countries, I show that agriculture is the primary driver of the effect of rainfall on overall economic output growth. Specifically, I find that economic output growth declines when subnational regions experience anomalous rainfall during the agricultural growing season, while exposure to anomalous rainfall during the non-growing season has no effect. Dry growing season conditions are particularly harmful, and previous studies that do not account for seasonal rainfall patterns significantly underestimate these effects. I find evidence that the effects on economic growth rates are persistent and that rising income levels reduce the vulnerability to growing season rainfall anomalies. These results deliver empirical evidence that agriculture is driving the negative effects of dry conditions on economic growth rates, especially in low- to middle-income regions.
+
+</details>
+
+</div>
+
 ### Publications
 
-**Marbler, A.** (2024) "Water scarcity and local economic activity: Spatial spillovers and the role of irrigation." <i>Journal of Environmental Economics and Management</i>, 124, 102931. [Paper](https://doi.org/10.1016/j.jeem.2024.102931) \| [Slides](files/EconWAT_slides.pdf).
+<div class="paper-card">
 
-***Award:*** [Young Economist Award (NOeG 2021)](https://en.noeg.ac.at/awards-fellowships#h.p_XDghNQSumeoD)
+**Marbler, A.** (2024) "Water scarcity and local economic activity: Spatial spillovers and the role of irrigation." <i>Journal of Environmental Economics and Management</i>, 124, 102931.
+
+[Paper](https://doi.org/10.1016/j.jeem.2024.102931) \| [Slides](files/EconWAT_slides.pdf) \| <span class="award">[Young Economist Award (NOeG 2021)](https://en.noeg.ac.at/awards-fellowships#h.p_XDghNQSumeoD)</span>
 
 <details>
 
@@ -77,43 +126,11 @@ This paper explores the spatial spillover effects of water scarcity on local eco
 
 </details>
 
-### Working Papers
-
-**Marbler, A.** (2025) "When supply chains run dry: Spillovers intensify the economic impact of water scarcity." Available at SSRN: [http://dx.doi.org/10.2139/ssrn.5354158](https://dx.doi.org/10.2139/ssrn.5354158). [Paper](https://dx.doi.org/10.2139/ssrn.5354158)
-
-***Award:*** [Young Economist Award (NOeG 2025)](https://en.noeg.ac.at/awards-fellowships#h.p_XDghNQSumeoD)
-
-<details>
-
-<summary>Abstract</summary>
-
-This paper explores the role of global supply chains in amplifying the macroeconomic losses caused by local climate shocks. Combining global multi-regional input-output tables, high-resolution water availability data, and subnational gross value added (GVA) for Europe's NUTS-3 regions, I find that supply chain spillover effects substantially amplify the macroeconomic losses caused by local water scarcity shocks. The negative effects are persistent and regions that are already drier today are the most vulnerable to supply chain transmitted water scarcity shocks. A counterfactual analysis reveals that over the period 2000-2019, the total cumulative European gross value added losses attributable to these shocks amounts to €12.3 trillion. This is more than three times the €3.7 trillion in estimated GVA losses when supply chain spillover effects are not accounted for. This paper highlights both the importance of integrating supply chain spillovers into climate impact assessments and the need for adaptation measures to enhance the supply chain resilience under future warming.
-
-</details>
-
-<details>
-
-<summary>Presentations</summary>
-
--   40th Annual Conference of the European Economic Association (EEA 2025), Bordeaux, France.
-
--   30th Annual Conference of the European Association of Environmental and Resource Economists (EAERE 2025), Bergen, Norway.
-
--   Annual Conference of the Austrian Economic Association (NOeG 2025), Krems an der Donau, Austria.
-
-</details>
-
-**Marbler, A.** (2022) "Agriculture drives the effect of rainfall on economic production." Available at SSRN: <https://dx.doi.org/10.2139/ssrn.4459158>. [Paper](https://dx.doi.org/10.2139/ssrn.4459158)
-
-<details>
-
-<summary>Abstract</summary>
-
-Growing evidence suggests that there is a causal effect of rainfall on economic output, yet the mechanisms driving these effects remain unclear. Here, by integrating gridded agricultural information, climate data, and information on economic output for 1,541 subnational regions across 77 countries, I show that agriculture is the primary driver of the effect of rainfall on overall economic output growth. Specifically, I find that economic output growth declines when subnational regions experience anomalous rainfall during the agricultural growing season, while exposure to anomalous rainfall during the non-growing season has no effect. Dry growing season conditions are particularly harmful, and previous studies that do not account for seasonal rainfall patterns significantly underestimate these effects. I find evidence that the effects on economic growth rates are persistent and that rising income levels reduce the vulnerability to growing season rainfall anomalies. These results deliver empirical evidence that agriculture is driving the negative effects of dry conditions on economic growth rates, especially in low- to middle-income regions.
-
-</details>
+</div>
 
 ### Work in Progress
+
+<div class="paper-card">
 
 "The impact of rural water availability on city growth." With [Stefan Borsky](https://sborsky.github.io/)
 
@@ -132,6 +149,8 @@ Growing evidence suggests that there is a causal effect of rainfall on economic 
 -   Environmental Protection and Sustainability Forum (EPSF 2022), Graz, Austria.
 
 </details>
+
+</div>
 
 </div>
 :::

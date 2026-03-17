@@ -7,6 +7,7 @@ website:
   title: "Alexander Marbler"
   search: true
   navbar:
+    background: light
     left:
       - text: Research
         href: index.qmd
@@ -19,9 +20,10 @@ website:
       #- text: Blog
       #  href: index.qmd
       
-  page-footer: 
-    left: "[Alexander Marbler](http://amarbler.github.io) &copy; <script>document.write(new Date().getFullYear())</script>" 
-    
+  page-footer:
+    left: "[Alexander Marbler](http://amarbler.github.io) &copy; <script>document.write(new Date().getFullYear())</script>"
+    center: ""
+    right: "Built with [Quarto](https://quarto.org/)"
 
 format:
   html:
@@ -29,6 +31,10 @@ format:
       - cosmo
       - brand
     include-in-header:
+      - text: |
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+          <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
       - text: |
           <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons/css/academicons.min.css">
       - text: |
