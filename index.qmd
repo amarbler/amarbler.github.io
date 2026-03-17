@@ -4,53 +4,43 @@ page-layout: full
 toc: false
 page-navigation: false
 ---
-  
-::: {.columns}
-::: {.column width="40%"}
 
-<div class="profile-card">
-
+:::::::::::::: columns
+::::::: {.column width="40%"}
+:::::: profile-card
 ![](marbler.png){.profile-img}
 
-<div class="profile-name">Alexander Marbler</div>
+::: profile-name
+Alexander Marbler
+:::
 
-<div class="profile-desc">
-  I am a postdoctoral researcher at the [Wegener Center for Climate and Global Change](https://wegcenter.uni-graz.at/en/) at the [University of Graz](https://www.uni-graz.at/en/), working on topics in environmental and spatial economics.
-</div>
+::: profile-desc
+I am a postdoctoral researcher at the [Wegener Center for Climate and Global Change](https://wegcenter.uni-graz.at/en/) at the [University of Graz](https://www.uni-graz.at/en/), working on topics in environmental and spatial economics.
+:::
 
-<div class="profile-links">
-
-[{{< iconify academicons google-scholar >}} Scholar](https://scholar.google.com/citations?user=pMLEyBAAAAAJ&hl=de&oi=ao){target=_blank}
-[{{< iconify academicons orcid >}} ORCID](https://orcid.org/0000-0001-7475-476X){target=_blank}
-[{{< iconify simple-icons linkedin >}} LinkedIn](https://linkedin.com/in/alexander-marbler){target=_blank}
-<!-- [{{< iconify simple-icons github >}} Github](https://github.com/amarbler){target=_blank} -->
-[{{< iconify mdi envelope >}} Email](mailto:alexander.marbler@uni-graz.at)
-
-</div>
-
-
-
-</div>
+::: profile-links
+[{{< iconify academicons google-scholar >}} Scholar](https://scholar.google.com/citations?user=pMLEyBAAAAAJ&hl=de&oi=ao){target="_blank"} [{{< iconify academicons orcid >}} ORCID](https://orcid.org/0000-0001-7475-476X){target="_blank"} [{{< iconify simple-icons linkedin >}} LinkedIn](https://linkedin.com/in/alexander-marbler){target="_blank"} <!-- [{{< iconify simple-icons github >}} Github](https://github.com/amarbler){target=_blank} --> [{{< iconify mdi envelope >}} Email](mailto:alexander.marbler@uni-graz.at)
+:::
+::::::
 
 ### News
-- **New Version of Pop-AUT available:** [Version v2.0 available at Zenodo.](https://doi.org/10.5281/zenodo.10477869) <span class="news-date">(11/25)</span>
-- **Young Economist Award 2025:** Received from the Austrian Economic Association (NOeG) for [When supply chains run dry: Spillovers intensify the economic impact of water scarcity.](https://dx.doi.org/10.2139/ssrn.5354158) <span class="news-date">(09/25)</span>
 
-:::
-  
-::: {.column width="60%"}
-<div class="right-panel">
+-   **New Version of Pop-AUT Available:** [Version v2.0 available at Zenodo.](https://doi.org/10.5281/zenodo.10477869) [(11/25)]{.news-date}
+-   **Young Economist Award 2025:** Received from the Austrian Economic Association (NOeG) for [When supply chains run dry: Spillovers intensify the economic impact of water scarcity.](https://dx.doi.org/10.2139/ssrn.5354158) [(09/25)]{.news-date}
+:::::::
 
+:::::::: {.column width="60%"}
+::::::: right-panel
 ## Research
+
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=pMLEyBAAAAAJ&hl=de&oi=ao).
 
 ### Working Papers
 
-<div class="paper-card">
-
+::: paper-card
 **Marbler, A.** (2025) "When supply chains run dry: Spillovers intensify the economic impact of water scarcity." Available at SSRN: [http://dx.doi.org/10.2139/ssrn.5354158](https://dx.doi.org/10.2139/ssrn.5354158).
 
-[Paper](https://dx.doi.org/10.2139/ssrn.5354158) \| <span class="award">[Young Economist Award (NOeG 2025)](https://en.noeg.ac.at/awards-fellowships#h.p_XDghNQSumeoD)</span>
+[Paper](https://dx.doi.org/10.2139/ssrn.5354158) \| [[Young Economist Award (NOeG 2025)](https://en.noeg.ac.at/awards-fellowships#h.p_XDghNQSumeoD)]{.award}
 
 <details>
 
@@ -71,11 +61,9 @@ This paper explores the role of global supply chains in amplifying the macroecon
 -   Annual Conference of the Austrian Economic Association (NOeG 2025), Krems an der Donau, Austria.
 
 </details>
+:::
 
-</div>
-
-<div class="paper-card">
-
+::: paper-card
 **Marbler, A.** (2022) "Agriculture drives the effect of rainfall on economic production." Available at SSRN: <https://dx.doi.org/10.2139/ssrn.4459158>.
 
 [Paper](https://dx.doi.org/10.2139/ssrn.4459158)
@@ -87,16 +75,14 @@ This paper explores the role of global supply chains in amplifying the macroecon
 Growing evidence suggests that there is a causal effect of rainfall on economic output, yet the mechanisms driving these effects remain unclear. Here, by integrating gridded agricultural information, climate data, and information on economic output for 1,541 subnational regions across 77 countries, I show that agriculture is the primary driver of the effect of rainfall on overall economic output growth. Specifically, I find that economic output growth declines when subnational regions experience anomalous rainfall during the agricultural growing season, while exposure to anomalous rainfall during the non-growing season has no effect. Dry growing season conditions are particularly harmful, and previous studies that do not account for seasonal rainfall patterns significantly underestimate these effects. I find evidence that the effects on economic growth rates are persistent and that rising income levels reduce the vulnerability to growing season rainfall anomalies. These results deliver empirical evidence that agriculture is driving the negative effects of dry conditions on economic growth rates, especially in low- to middle-income regions.
 
 </details>
-
-</div>
+:::
 
 ### Publications
 
-<div class="paper-card">
-
+::: paper-card
 **Marbler, A.** (2024) "Water scarcity and local economic activity: Spatial spillovers and the role of irrigation." <i>Journal of Environmental Economics and Management</i>, 124, 102931.
 
-[Paper](https://doi.org/10.1016/j.jeem.2024.102931) \| [Slides](files/EconWAT_slides.pdf) \| <span class="award">[Young Economist Award (NOeG 2021)](https://en.noeg.ac.at/awards-fellowships#h.p_XDghNQSumeoD)</span>
+[Paper](https://doi.org/10.1016/j.jeem.2024.102931) \| [Slides](files/EconWAT_slides.pdf) \| [[Young Economist Award (NOeG 2021)](https://en.noeg.ac.at/awards-fellowships#h.p_XDghNQSumeoD)]{.award}
 
 <details>
 
@@ -125,13 +111,11 @@ This paper explores the spatial spillover effects of water scarcity on local eco
 -   Regulation and Environment (REM) Seminar at Paris School of Economics, France
 
 </details>
-
-</div>
+:::
 
 ### Work in Progress
 
-<div class="paper-card">
-
+::: paper-card
 "The impact of rural water availability on city growth." With [Stefan Borsky](https://sborsky.github.io/)
 
 <details>
@@ -149,9 +133,7 @@ This paper explores the spatial spillover effects of water scarcity on local eco
 -   Environmental Protection and Sustainability Forum (EPSF 2022), Graz, Austria.
 
 </details>
-
-</div>
-
-</div>
 :::
-:::
+:::::::
+::::::::
+::::::::::::::
