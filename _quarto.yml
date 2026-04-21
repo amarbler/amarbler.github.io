@@ -14,12 +14,12 @@ website:
       #- research/index.qmd
       #- projects/index.qmd
       #- data/index.qmd
-      - text: Vita
+      - text: CV
         href: files/CV_Marbler.pdf
         target: _blank
       #- text: Blog
       #  href: index.qmd
-      
+
   page-footer:
     left: "[Alexander Marbler](http://amarbler.github.io) &copy; <script>document.write(new Date().getFullYear())</script>"
     center: ""
